@@ -1,0 +1,1 @@
+SELECT * FROM EmployeeDetails WHERE Salary < 70000;
