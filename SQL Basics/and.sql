@@ -1,0 +1,1 @@
+SELECT * FROM EmployeeDetails WHERE EmployeeID=1 AND Salary=50000;
