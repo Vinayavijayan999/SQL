@@ -1,0 +1,1 @@
+SELECT(EmployeeID),Salary FROM EmployeeDetails GROUP BY Salary;

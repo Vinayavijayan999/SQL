@@ -1,0 +1,1 @@
+SELECT FirstName FROM EmployeeDetails GROUP BY Salary HAVING MAX(EmployeeID=2);

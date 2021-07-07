@@ -1,0 +1,1 @@
+SELECT SUM(EmployeeID) FROM employeedetails

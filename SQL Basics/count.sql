@@ -1,0 +1,1 @@
+SELECT COUNT(Salary) FROM employeedetails

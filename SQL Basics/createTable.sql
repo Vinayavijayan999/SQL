@@ -1,0 +1,1 @@
+CREATE TABLE EmployeeDetails ( EmployeeID int, FirstName varchar(25), LastName varchar(25), Department varchar(50), Salary int)

@@ -1,0 +1,1 @@
+SELECT Salary FROM EmployeeDetails WHERE EmployeeID=2;

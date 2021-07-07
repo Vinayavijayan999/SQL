@@ -1,0 +1,1 @@
+SELECT COUNT(EmployeeID), FirstName FROM EmployeeDetails ORDER BY COUNT(EmployeeID) DESC;

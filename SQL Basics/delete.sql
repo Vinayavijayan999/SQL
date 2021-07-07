@@ -1,0 +1,1 @@
+DELETE FROM EmployeeDetails WHERE EmployeeID = 3;

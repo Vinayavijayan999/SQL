@@ -1,0 +1,1 @@
+SELECT MAX(EmployeeID) AS ID FROM EmployeeDetails;

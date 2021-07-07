@@ -1,0 +1,1 @@
+SELECT EmployeeID FROM EmployeeDetails WHERE Salary IN (1000, 50000);
